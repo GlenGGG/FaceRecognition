@@ -1,0 +1,7 @@
+.vscode
+__pycache__
+.*.swp
+*.whl
+data/
+__pycache__
+data.zip
