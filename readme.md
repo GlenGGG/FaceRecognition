@@ -23,7 +23,11 @@ Clone this repository.
 git clone git@github.com:GlenGGG/FaceRecognition.git
 cd FaceRecognition
 ```
+Download dataset
 
+```
+https://drive.google.com/file/d/1d_L0lQcSK5Lj6ZCxYRx4mQTCA_ArrJjF/view?usp=sharing
+```
 Decompress data.zip
 
 ```
